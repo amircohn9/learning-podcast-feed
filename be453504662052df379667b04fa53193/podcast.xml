@@ -23,15 +23,5 @@
       <itunes:duration>00:47:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
-    <item>
-      <title>StoryBrand (Donald Miller)</title>
-      <description>Two hosts on Donald Miller&#x27;s StoryBrand framework: the status inversion that makes the customer the hero, the three levels of problem, the villain, the grunt test, and where it breaks. Includes the flattening critique and why it struggles with B2B buying committees.</description>
-      <itunes:summary>Two hosts on Donald Miller&#x27;s StoryBrand framework: the status inversion that makes the customer the hero, the three levels of problem, the villain, the grunt test, and where it breaks. Includes the flattening critique and why it struggles with B2B buying committees.</itunes:summary>
-      <enclosure url="https://amircohn9.github.io/learning-podcast-feed/be453504662052df379667b04fa53193/episodes/storybrand-donald-miller-2026-09-15.mp3" length="41233111" type="audio/mpeg"/>
-      <guid isPermaLink="false">storybrand-donald-miller-2026-09-15.mp3</guid>
-      <pubDate>Wed, 16 Sep 2026 02:23:18 +0000</pubDate>
-      <itunes:duration>00:57:16</itunes:duration>
-      <itunes:explicit>false</itunes:explicit>
-    </item>
   </channel>
 </rss>
