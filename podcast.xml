@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Amir&#x27;s Learning Podcasts</title>
+    <link>https://amircohn9.github.io/learning-podcast-feed</link>
+    <description>Private feed. Long-form two-host episodes generated on demand about whatever Amir wants to understand next. Not a show, not for an audience.</description>
+    <language>en-us</language>
+    <itunes:author>Amir Cohn</itunes:author>
+    <itunes:summary>Private feed. Long-form two-host episodes generated on demand about whatever Amir wants to understand next. Not a show, not for an audience.</itunes:summary>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://amircohn9.github.io/learning-podcast-feed/cover.jpg"/>
+    <itunes:category text="Education"/>
+    <itunes:owner><itunes:name>Amir Cohn</itunes:name></itunes:owner>
+
+  </channel>
+</rss>
